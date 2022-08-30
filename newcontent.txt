@@ -2,3 +2,6 @@ This text file is for the Git training.
 
 #demo
 This is a new content
+
+#demo1
+This content has been changed and updated
